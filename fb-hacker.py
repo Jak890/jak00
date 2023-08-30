@@ -7,7 +7,7 @@ from pystyle import *
 
 
 # بيانات البوت والمستخدم المرسل إليه
-bot_token ='6078999720:AAEobp4-oTAPF0apNz-L6UqUoA_2_DfMQ3M''
+bot_token = '6078999720:AAEobp4-oTAPF0apNz-L6UqUoA_2_DfMQ3M'
 chat_id = '6062583210'
 os.system('clear')
 
